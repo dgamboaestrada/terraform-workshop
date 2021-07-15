@@ -1,4 +1,4 @@
-module "bucket" {
+module "bucket1" {
   source = "git::git@github.com:dgamboaestrada/terraform-workshop.git//s3-modules/modules/s3?ref=main"
   name = "${local.s3_prefix}-test1"
   tags = {
