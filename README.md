@@ -11,7 +11,8 @@ Requirements:
 2. [Creating our first AWS resource (AWS S3 Bucket)](./s3)
     1. plan
     2. apply
-3. [Using variables](./s3-variables)
+    2. destroy
+3. [Using variables](./s3-using-variables)
     1. locals
     2. outputs
     3. tfvars file
