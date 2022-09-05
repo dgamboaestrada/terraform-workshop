@@ -7,7 +7,7 @@ Requirements:
 
 
 ### Content
-1. [AWS provider](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
+1. [AWS provider](./aws-provider)
 2. [Creating our first AWS resource (AWS S3 Bucket)](./s3)
     1. plan
     2. apply
