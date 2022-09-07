@@ -6,4 +6,5 @@ TF Commands
 ```bash
 terraform plan -out=plan.tfstate
 terraform apply plan.tfstate
+terraform output
 ```

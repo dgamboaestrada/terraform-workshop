@@ -19,12 +19,6 @@ terraform plan -var "environment=dev" -var "region=us-east-1"
 terraform apply -var "environment=dev" -var "region=us-east-1"
 ```
 
-Giving the inputs from a specific file.
-```bash
-terraform plan -var-file=tfvars/prod.tfvars
-terraform apply -var-file=tfvars/prod.tfvars
-```
-
 Combining the commands with the `-out` option
 ```bash
 terraform plan -var "environment=dev" -var "region=us-east-1" -out=plan.tfstate
