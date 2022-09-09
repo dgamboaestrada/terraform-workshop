@@ -16,7 +16,7 @@ Requirements:
     1. inputs
     2. locals
     3. outputs
-4. [Implementing modules](./s3-modules) https://www.terraform.io/language/modules/sources#local-paths
+4. [Implementing modules](./s3-modules)
 5. Data Sources
 6. Expressions
     1. conditional
