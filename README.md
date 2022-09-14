@@ -17,15 +17,15 @@ Requirements:
     2. locals
     3. outputs
 4. [Implementing modules](./s3-modules)
-5. Data Sources
+5. Data Sources (https://www.terraform.io/language/data-sources)
 6. Expressions
-    1. conditional
-    2. for
+    1. [conditional](./conditional) (https://www.terraform.io/language/expressions/conditionals)
+    2. for (https://www.terraform.io/language/expressions/for)
 7. Dynamic Blocks
 8. Meta-Argument
-    1. count
-    2. depends_on
-    3. for_each
+    1. [count](./loops/count) (https://www.terraform.io/language/meta-arguments/count)
+    2. depends_on (https://www.terraform.io/language/meta-arguments/depends_on)
+    3. [for_each](./loops/for-each) (https://www.terraform.io/language/meta-arguments/for_each)
     4. https://www.terraform.io/language/meta-arguments/module-providers
 9. Backend Configuration
 10. Workspaces
