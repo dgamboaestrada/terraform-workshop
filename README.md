@@ -21,7 +21,7 @@ Requirements:
 6. Expressions
     1. [conditional](./conditional) (https://www.terraform.io/language/expressions/conditionals)
     2. for (https://www.terraform.io/language/expressions/for)
-7. Dynamic Blocks
+7. Dynamic Blocks (https://developer.hashicorp.com/terraform/language/expressions/dynamic-blocks)
 8. Meta-Argument
     1. [count](./loops/count) (https://www.terraform.io/language/meta-arguments/count)
     2. depends_on (https://www.terraform.io/language/meta-arguments/depends_on)
